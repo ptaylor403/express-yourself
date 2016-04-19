@@ -3,5 +3,4 @@
 .direnv
 __pycache__
 *.pyc
-requirements.txt
 .ipynb_checkpoints
