@@ -18,3 +18,15 @@ def words(text):
     if count:
         if len(words) != count:
             return False
+
+def phone_number(text):
+    pass
+
+def money(text):
+    pass
+
+def zip(text):
+    pass
+
+def date(text):
+    pass

@@ -14,3 +14,12 @@ def phone_numbers(text):
         return area_code
     if len(number) == 8:
         return number
+
+def money(text):
+    pass
+
+def zipcode(text):
+    pass
+
+def date(text):
+    pass
